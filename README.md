@@ -118,7 +118,8 @@ Nonetheless, we were able to provide investors assessing the beta of each invest
 In addition to that, providing the Standard Deviation they are able to measure the risk of each asset. With the Shrape ratio investors will have a great way to compare the investment they are looking vs the risk free rate asset (In most cases US will be T-bills) providing a realistic view of risk- adjusted returns of each investment.
 
 To conclude, the most important part was to provide investors with the tool to choose the most desirable investment based on their risk tolerance. This application will help customers struggling to diversify their current portfolios. 
-![Portfolio Graph](Images/resources_and_images/portfolio_graph.png)
+
+![Portfolio Graph](Images/portfolio_graph.png)
 
 ### Could we create an analysis notebook that will analyze random stocks based on their historical data to help us create a personalized portfolio?
 
@@ -133,6 +134,7 @@ An analysis notebook can be configured to assess stocks based on various financi
 -From the initial table we created with the 30 tickers and their beta, standard deviation, sharpe_ratio and average returns.  Only 1 of the 30 companies had a negative average return.
 
 -Based on the average returns, the conservative portfolio had an average return of roughly .009%.  The moderate portfolio had roughly the same overall average returns with a couple stocks having higher ones.  The aggressive portfolio had stocks with similar  returns to the other portfolios, but with a couple stocks having even higher yields.
+
 ![Aggressive Average Return Bar Graph](Images/aggressive_average_return_bar_graph.jpeg)
 ![Conservative Average Return Bar Graph](Images/conservative_average_return_bar_graph.png)
 ![Moderate Average Return Bar Graph](Images/moderate_average_return_bar_graph.jpeg)
@@ -142,11 +144,15 @@ The conservative portfolio had a beta of .5, whereas the moderate portfolio had 
 -The conservative and moderate portfolios had similar standard deviations with the aggressive portfolio having  the largest.
 
 -For the Monte Carlo simulations, the aggressive portfolio most likely would have returned the highest yields and had potential to return the highest yield.  But it was the only portfolio that had a chance of yielding a negative return.  
+
 ![Aggressive Monte Carlo Simulation](Images/aggressive_monte_carlo_simulation.jpeg)
 
 -The moderate portfolio seemed very likely to yield a solid positive return.  It also had potential to yield a very high return.
+
 ![Conservative Monte Carlo Simulation](Images/conservative_monte_carlo_simulation.jpeg)
+
 -The conservative portfolio seemed to have the same likelihood as yielding the same as the moderate portfolio, without the chance of yielding a higher return.
+
 ![Moderate Monte Carlo Simulation](Images/moderate_monte_carlo_simulation.jpeg)
 
 -This could have been due to the more conservative stocks paying out dividends.  From the simulations it would be advised to invest in the aggressive portfolio if your time horizon is 3 years or greater.  Overall the findings did meet our expectations.
