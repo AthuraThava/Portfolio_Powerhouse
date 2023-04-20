@@ -41,7 +41,7 @@ For this code to run, pleae download the corresponding libraries:
 * `numpy` was used in calculating the metrics in our function. 
 * We contemplated using `seaborn` to spruce up the graphs 
 * `sqlalchemy` was used to query data from sql and create the list of tickers
-* `os` was used  
+* `os` was used to create a path for image to be saved in a folder
 
 
 ### SQL Data
