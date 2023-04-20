@@ -173,22 +173,22 @@ Another element to this project we wanted to accomplish was to have a user inter
 ## Installation Instructions
 To run this code please input this on your terminal so it downloads the corresponding libraries:
 
-* yfinance: Yahoo Finance
+yfinance: Yahoo Finance
 * yfinance is a library that allows users to access financial data from Yahoo Finance.
 
-* pandas: Python Data Analysis Library
+pandas: Python Data Analysis Library
 * pandas is an open-source library providing data structures and data analysis tools for the Python programming language.
 
-* numpy: Numerical Python
+numpy: Numerical Python
 * numpy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
-* sqlalchemy: SQL Alchemy
+sqlalchemy: SQL Alchemy
 * sqlalchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for the Python programming language, allowing users to work with relational databases.
 
-* matplotlib: Matplotlib
+matplotlib: Matplotlib
 * matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK.
 
-* seaborn: Seaborn
+seaborn: Seaborn
 * seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 * MCForecastTools: Monte Carlo Forecast Tools
@@ -196,7 +196,7 @@ To run this code please input this on your terminal so it downloads the correspo
 	
 Copy and paste the following command into your terminal to access the libraries 
 
-´pip install yfinance pandas numpy sqlalchemy matplotlib seaborn´
+`pip install yfinance pandas numpy sqlalchemy matplotlib seaborn`
 
 
 
